@@ -1,0 +1,12 @@
+__pycache__
+dash/__pycache__
+ckpt
+db
+keyframes
+metadata
+Dockerfile
+README.md
+first_run.ps1
+docker*
+.gitignore
+.github
